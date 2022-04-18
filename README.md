@@ -15,7 +15,7 @@ The marketing analyst team needs to better understand...
 - Why casual riders would buy a membership?
 - How digital media could affect their marketing tactics?
 
-I am working as a junior data analyst in the marketing analyst team, *my main responsibility is to discover and understand what is the main difference between members and casual riders.*
+I am working as a junior data analyst in the marketing analyst team, ***my main responsibility is to discover and understand what is the main difference between members and casual riders.***
 Later after the main difference is discovered, the report should include the top three recommendations based on analysis.
 
 
