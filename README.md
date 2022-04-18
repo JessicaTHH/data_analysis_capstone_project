@@ -25,6 +25,8 @@ The data analysis progress has been catogorized into 6 steps: ***Ask, Prepare, P
 5. **SHARE**, create data viz to share data findings, tell the story with presentation.
 6. **ACT**, the next step recommendation based on the findings.
 
+### Following are 2 folders, one of it contains the \<final reports> (which covers the ***SHARE*** and ***ACT*** phase of data analysis), and another one \<progress> includes the documentation of my analyzing progress, R script that I used to analyze data, and the data viz that R script produced.
+
 ## Sneak peek of the conclusion:
 
 ### There are two main difference between casual riders and members:
